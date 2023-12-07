@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @isnakhan
-- 👀 I’m interested in ...data science
-- 🌱 I’m currently learning ...basics of software and hardware 
-- 💞️ I’m looking to collaborate on ...projects where apprentice are needed or accepted
+- 👀 I’m interested in ...tech world
+- 🌱 I’m currently learning ...basics of coding and project management
+- 💞️ I’m looking to collaborate on ...projects where beginners are welcome
 - 📫 How to reach me ...inshisna@gmail.com
 
 <!---
